@@ -1,5 +1,5 @@
 <h1 align="left">Hi 🙃, I'm JEONGSU OH. I want to work as a data analyst.</h1>
-<h3 align="left">Graduated from the Department of Statistics at Dongguk University Wise Campus in 2024 with a GPA of 3.91</h3>
+<h3 align="left">Graduated from the Department of Statistics at Dongguk University Wise Campus in 2024, GPA : 3.91 / 4.5</h3>
 <br/>
 
 - 📝 I regularly write articles on **https://blog.naver.com/essence_oo**<br/>
