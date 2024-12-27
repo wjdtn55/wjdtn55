@@ -1,4 +1,5 @@
 <h1 align="left">Hi 🙃, I'm JEONGSU OH. I want to work as a data analyst.</h1>
+<h3 align="left">I'm From Ulsan, South Korea. Birth is 01-13-2000. Male.
 <h3 align="left">Graduated from the Department of Statistics at Dongguk University Wise Campus in 2024, GPA : 3.91</h3>
 <br/>
 
